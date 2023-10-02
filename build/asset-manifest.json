@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1cc8264c.css",
+    "main.js": "/static/js/main.0bfc755c.js",
+    "static/media/Alexandre-image.png": "/static/media/Alexandre-image.e487eac51efce7aff1ec.png",
+    "static/media/Alexandre-image-1.jpg": "/static/media/Alexandre-image-1.32ba0f87cd430ca9e351.jpg",
+    "static/media/CV-Alexendre-Kargar.pdf": "/static/media/CV-Alexendre-Kargar.d1c3d90d1d842625cf1a.pdf",
+    "static/media/portfolio-image5.jpg": "/static/media/portfolio-image5.c210006b06da0b125ca4.jpg",
+    "static/media/portfolio-image4.jpg": "/static/media/portfolio-image4.4bfa6d5bed1486d21d00.jpg",
+    "static/media/portfolio-image2.jpg": "/static/media/portfolio-image2.182a73b65d67df1ba4ae.jpg",
+    "static/media/portfolio-image3.jpg": "/static/media/portfolio-image3.1bfc78a85cd8c6725935.jpg",
+    "static/media/portfolio-image1.jpg": "/static/media/portfolio-image1.4da95d0ce5682337940d.jpg",
+    "index.html": "/index.html",
+    "main.1cc8264c.css.map": "/static/css/main.1cc8264c.css.map",
+    "main.0bfc755c.js.map": "/static/js/main.0bfc755c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cc8264c.css",
+    "static/js/main.0bfc755c.js"
+  ]
+}
